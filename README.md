@@ -11,7 +11,7 @@ This project was implemented in [MATLAB](https://www.mathworks.com/products/matl
 ## ✒️ Authors
 
 - Gabriel DE FREITAS LEITE:
-    - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/matsano)
+    - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/GLeyte)
 - Matheus SANTOS SANO:
     - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/matsano)
 
