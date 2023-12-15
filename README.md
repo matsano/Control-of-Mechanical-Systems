@@ -1,5 +1,5 @@
 # Control-of-Mechanical-Systems
-Control of Mechanical Systems Course (ES710) Project
+Control of Mechanical Systems Course Project
 
 ## 📋 Description
 This project consists of modeling a pendulum-car nonlinear mechanical system and designing a controller for the nonlinear system and for the linearized system. Performance is analyzed in both cases. Then, using the designed controller, an equivalent digital controller is implemented for the methods: Zero Order Holder, Tustin and Pole and Zero Mapping. Finally, the performance of this digital controller is analyzed.
